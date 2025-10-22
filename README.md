@@ -2,7 +2,7 @@
 
 # 🐍 12 Python Beginner Projects
 
-Welcome to **12 Python Beginner Projects** – a fun and practical collection of beginner-friendly Python projects designed to help you build confidence and improve your coding skills through hands-on practice.
+Welcome to **12 Python Beginner Projects** – a fun and practical collection of beginner-friendly Python projects designed to help me improve my coding skills through hands on practice.
 
 Whether you're just starting your Python journey or looking for simple projects to get more comfortable with coding, this repo has something for you!
 
@@ -20,6 +20,7 @@ Here's a quick look at what's included:
 | ❌⭕ Tic-Tac-Toe | A two-player console game with win logic and a simple interface. |
 | 🔢 Sudoku Validator | Check if a 9x9 Sudoku board is valid. |
 | 🎨 Photo Manipulation | Basic image processing using Python libraries |
+| More | ... |
 
 ---
 
