@@ -22,3 +22,4 @@ That was their sole mission and they were dedicated towards achieving it for the
 
     print(story)
 
+madlib()
