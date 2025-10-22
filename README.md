@@ -20,7 +20,7 @@ Here's a quick look at what's included:
 | ❌⭕ Tic-Tac-Toe | A two-player console game with win logic and a simple interface. |
 | 🔢 Sudoku Validator | Check if a 9x9 Sudoku board is valid. |
 | 🎨 Photo Manipulation | Basic image processing using Python libraries |
-| More | ... |
+| More..... | .............. |
 
 ---
 
@@ -34,4 +34,3 @@ This project is part of a **complete beginner course** in Python. The goal is to
 - Prepare for more advanced challenges
 
 You don’t need any prior experience – just Python installed and some curiosity!
-
