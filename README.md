@@ -15,7 +15,7 @@ Here's a quick look at what's included:
 | 🔢 Guess the Number (User & Computer) | Two versions: You guess the number the computer picks, and one where the computer guesses yours! |
 | ✊ Rock Paper Scissors | A classic game to learn about conditionals, loops, and randomness. |
 | 🪢 Hangman | Test your logic with this word-guessing game. |
-| ❌⭕ Tic-Tac-Toe | A two-player console game with win logic and a simple interface. |
+| ❌⭕ Tic-Tac-Toe (AI) | A two-player console game with win logic and a simple interface. |
 | 🔢 Sudoku Validator | Check if a 9x9 Sudoku board is valid. |
 | 🎨 Photo Manipulation | Basic image processing using Python libraries |
 | More | ...... |
