@@ -1,4 +1,4 @@
-# BeginnerPythonProjects
+# BeginnerPythonProjectsCourse
 
 # 🐍 12 Python Beginner Projects
 
